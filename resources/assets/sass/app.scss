@@ -1,0 +1,13 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body{
+  font-family:"Poppins", sans-serif;
+}
